@@ -4,7 +4,7 @@ RidgeRunner is a Unity 6 time-trial racing prototype built around a complete rac
 
 ## Demo
 
-The playable prototype is demonstrated in the [RidgeRunner gameplay video](https://github.com/Yohanes-Mk/RidgeRunner/releases/tag/v1.0.0).
+Watch the [RidgeRunner gameplay demo](https://github.com/Yohanes-Mk/RidgeRunner/releases/download/v1.0.0/ridge-runner-gameplay-demo.mov), or visit the [v1.0.0 release](https://github.com/Yohanes-Mk/RidgeRunner/releases/tag/v1.0.0).
 
 ## Systems implemented
 

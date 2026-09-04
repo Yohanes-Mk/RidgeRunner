@@ -1,0 +1,31 @@
+# Unity generated directories
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# IDE and generated project files
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Third-party Asset Store content is intentionally not redistributed.
+Assets/Packages/
+Assets/EasyRoads3D/
+Assets/EasyRoads3D scenes/
+Assets/SkythianCat/
+Assets/Extras/
